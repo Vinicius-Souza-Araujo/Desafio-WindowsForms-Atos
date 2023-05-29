@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STADS\\source\\repos\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj": {}
+    "C:\\Users\\STADS\\Desktop\\Nova pasta (3)\\Desafio-WindowsForms-Atos-main\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STADS\\source\\repos\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj": {
+    "C:\\Users\\STADS\\Desktop\\Nova pasta (3)\\Desafio-WindowsForms-Atos-main\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STADS\\source\\repos\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj",
+        "projectUniqueName": "C:\\Users\\STADS\\Desktop\\Nova pasta (3)\\Desafio-WindowsForms-Atos-main\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj",
         "projectName": "WinFormsDefafioGaragem",
-        "projectPath": "C:\\Users\\STADS\\source\\repos\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj",
+        "projectPath": "C:\\Users\\STADS\\Desktop\\Nova pasta (3)\\Desafio-WindowsForms-Atos-main\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem.csproj",
         "packagesPath": "C:\\Users\\STADS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STADS\\source\\repos\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\obj\\",
+        "outputPath": "C:\\Users\\STADS\\Desktop\\Nova pasta (3)\\Desafio-WindowsForms-Atos-main\\WinFormsDefafioGaragem\\WinFormsDefafioGaragem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\STADS\\AppData\\Roaming\\NuGet\\NuGet.Config",

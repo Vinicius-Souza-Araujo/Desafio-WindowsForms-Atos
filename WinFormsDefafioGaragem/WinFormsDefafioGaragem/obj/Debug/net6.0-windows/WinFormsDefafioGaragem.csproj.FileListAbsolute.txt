@@ -16,3 +16,21 @@ C:\Users\STADS\source\repos\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\De
 C:\Users\STADS\source\repos\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.genruntimeconfig.cache
 C:\Users\STADS\source\repos\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\ref\WinFormsDefafioGaragem.dll
 C:\Users\STADS\source\repos\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.Properties.Resources.resources
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\bin\Debug\net6.0-windows\WinFormsDefafioGaragem.exe
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\bin\Debug\net6.0-windows\WinFormsDefafioGaragem.deps.json
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\bin\Debug\net6.0-windows\WinFormsDefafioGaragem.runtimeconfig.json
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\bin\Debug\net6.0-windows\WinFormsDefafioGaragem.dll
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\bin\Debug\net6.0-windows\WinFormsDefafioGaragem.pdb
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.csproj.AssemblyReference.cache
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.Form1.resources
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.Properties.Resources.resources
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.csproj.GenerateResource.cache
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.AssemblyInfoInputs.cache
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.AssemblyInfo.cs
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.csproj.CoreCompileInputs.cache
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.dll
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\refint\WinFormsDefafioGaragem.dll
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.pdb
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\WinFormsDefafioGaragem.genruntimeconfig.cache
+C:\Users\STADS\Desktop\Nova pasta (3)\Desafio-WindowsForms-Atos-main\WinFormsDefafioGaragem\WinFormsDefafioGaragem\obj\Debug\net6.0-windows\ref\WinFormsDefafioGaragem.dll
